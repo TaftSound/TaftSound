@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TaftSound
-- 👀 I’m interested in programming audio software for creative sound design.
-- 🌱 I’m currently learning c++ and JUCE.
-- 💞️ I’m looking to collaborate on euclidian sequencers.
+- 👀 I’m interested in web development and building React applications
+- 🌱 I’m currently learning NodeJs and Express
 - 📫 Email matt@taftsound.com
 
 <!---
