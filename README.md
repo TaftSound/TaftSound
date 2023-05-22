@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaftSound
+- 👋 Hi, I’m Matt Murphy
 - 👀 I’m interested in web development and building React applications
 - 🌱 I’m currently learning NodeJs and Express
 - 📫 Email matt@taftsound.com
